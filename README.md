@@ -1,4 +1,4 @@
 # new
 
 new repository
-will decide later, what to store
+I will decide later, what to store in the repository
